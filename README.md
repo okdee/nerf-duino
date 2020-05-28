@@ -1,2 +1,2 @@
-# nerf-duino
-Controlling a NERF Nemesis with and Arduino board
+# NERF-duino
+Controlling a NERF Nemesis with an Arduino board
